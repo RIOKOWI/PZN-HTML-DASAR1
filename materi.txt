@@ -1,0 +1,25 @@
+LIST HTML ENTITIES CHAR
+https://oinam.github.io/entities/
+=================================
+
+FORMATTING TAG HTML
+- <b> = tebal
+- <i>, <em> = italic
+- <small> = text kecil
+- <del> = text dicoret
+- <ins> = text dengan garis bawah
+- <sub> = subscript text
+- <sup> = superscript text
+=================================
+
+WEB HAX COLOR PICKER
+https://colorpicker.me/#1e7fa3
+=================================
+
+TYPE OREDERED LIST
+
+type="1" = default
+type="A" = huruf kapital
+type="a" = huruf kecil
+type="I" = romawi kapital
+type="i" = romawi kecil
