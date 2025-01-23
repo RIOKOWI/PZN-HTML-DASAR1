@@ -28,3 +28,23 @@ type="i" = romawi kecil
 EMOJI 
 https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm
 ===========================================================================================================================
+
+SEMANTIC TAG
+
+- Tag <article> = konten artikel
+- Tag <aside> = konten sidebar
+- Tag <figure> = konten ilustrasi,diagram,foto, dll
+- Tag <figrurecaption> = keterangan tag figure
+- Tag <footer> = bagian footer
+- Tag <header> = header dokumen
+- Tag <main> = bagian utama dokumen
+- Tag <mark> = bagian ditandai/dihighlight
+- Tag <nav> = navbar atau link
+- Tag <section> = untuk section dokumen
+- Tag <details> = bagian yang lebih detail
+- Tag <summary> =  heading tag details
+- Tag <time> = konten wktu/tanggal
+===========================================================================================================================
+
+TAG LAINNYA
+https://developer.mozilla.org/en-US/docs/Web/HTML
