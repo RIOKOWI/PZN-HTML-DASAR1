@@ -23,3 +23,8 @@ type="A" = huruf kapital
 type="a" = huruf kecil
 type="I" = romawi kapital
 type="i" = romawi kecil
+=================================
+
+EMOJI 
+https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm
+===========================================================================================================================
